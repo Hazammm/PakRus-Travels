@@ -73,12 +73,12 @@ PakRus-Travels/
 
 ## 👨‍💻 Authors
 
-- Hazam
-<br>
-- Shahbaz
-<br>
-- Waleed
-<br>
-- Husnain
-<br>
+<ol>
+ Hazam
+ Shahbaz
+ Waleed
+ Husnain
+ 
+</ol>
+
 
