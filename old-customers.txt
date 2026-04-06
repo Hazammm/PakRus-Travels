@@ -1,1 +1,9 @@
 
+Customer ID: 969
+Name: Hazam
+Age: 20
+Mobile Number: 35342
+Address: USA
+Gender: m
+--------------------------------------------------------
+
