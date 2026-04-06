@@ -44,10 +44,10 @@ project_final.exe
 
 | Username | Password |
 |----------|----------|
-| Hazam    | 1234     |
+| hazam    | 1234     |
 | waleed   | 1234     |
 | husnain  | 1234     |
-| Shahbaz  | 1234     |
+| shahbaz  | 1234     |
 
 ---
 
