@@ -1,1 +1,18 @@
+# Compiled binaries
+*.exe
+*.out
+*.o
+*.obj
 
+# Auto-generated files (runtime output)
+receipt.txt
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.user
+*.suo
+
+# Windows system files
+Thumbs.db
+Desktop.ini
