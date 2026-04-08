@@ -2,8 +2,8 @@
 Customer ID: 969
 Name: Hazam
 Age: 20
-Mobile Number: 35342
-Address: USA
-Gender: m
+Mobile Number: 0788803612
+Address: Jhelum,Punjab,Pakistan
+Gender: Male
 --------------------------------------------------------
 
