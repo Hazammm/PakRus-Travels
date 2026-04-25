@@ -10,7 +10,7 @@ A console-based **C++ Travel Agency Management System** that allows admins to ma
 - 👤 **Customer Management** — Add new customers and view existing records
 - 🚕 **Cab Booking** — Choose between Standard (Rs.25/km) and Luxury (Rs.35/km) cabs
 - 🏨 **Hotel Booking** — Book packages at partner hotels
-- 🧾 **Receipt Generation** — Auto-generate and display billing receipts using the system
+- 🧾 **Receipt Generation** — Auto-generate and display billing receipts 
 
 ---
 
