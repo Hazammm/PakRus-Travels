@@ -1,6 +1,6 @@
 # 🚌 PakRus Travels — Travel Agency Management System
 
-A console-based **C++ Travel Agency Management System** that allows admins to manage customers, book hotels, hire cabs, and generate billing receipts.
+A console-based **C++ Travel Agency Management System** that allows admins to manage customers, book hotels, hire cabs for them, and generate billing receipts.
 
 ---
 
