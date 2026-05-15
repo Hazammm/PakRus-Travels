@@ -66,7 +66,7 @@ PakRus-Travels/
 ## 📌 Notes
 
 - Customer data is saved in `old-customers.txt` automatically after each entry in the system.
-- Receipts are saved to `receipt.txt` .
+- Receipts are saved to the file `receipt.txt` .
 - This project is **Windows-only** due to use of `windows.h`.
 
 ---
