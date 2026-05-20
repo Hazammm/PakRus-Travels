@@ -47,7 +47,7 @@ public:
         cout << "\nEnter Customer ID: ";
         cin >> cusID; // Takes the customer ID as input.
         cout << "Enter Name: ";
-        cin >> name; // Takes the customer's name as input.
+        cin >> name; // Takes the customers name.
         cout << "Enter Age: ";
         cin >> age; // Takes the customer's age as input.
         cout << "Enter Mobile Number: ";
